@@ -1,0 +1,35 @@
+    @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,900);
+    * {
+        box-sizing: inherit;
+        -webkit-transition-property: all;
+        transition-property: all;
+        -webkit-transition-duration: .6s;
+        transition-duration: .6s;
+        -webkit-transition-timing-function: ease;
+        transition-timing-function: ease;
+        font-family: 'Roboto', sans-serif;
+      font-weight: 100;
+    }
+h1 {
+  margin: 0 auto;
+}
+TABLE.c {
+  width: 97%;
+  border: 0;
+  border-collapse: collapse;
+  margin: auto;
+}
+table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+TABLE.c TR {
+  border-top: 35px solid white;
+}
+TABLE.c TH {
+  border: 0;
+  padding: 3px;
+  text-align: right;
+  font-weight: normal;
+}
